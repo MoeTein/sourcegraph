@@ -1,4 +1,4 @@
-# Site configuration
+# Sitehttps://github.com/sourcegraph/sourcegraph/edit/main/doc/admin/config/site_config.md configuration
 
 Site configuration defines how various Sourcegraph features behave. See the [full reference](#reference) below for a comprehensive list of site configuration options.
 
