@@ -20,7 +20,7 @@ require (
 	github.com/containerd/containerd v1.4.0 // indirect
 	github.com/coreos/go-oidc v2.2.1+incompatible
 	github.com/coreos/go-semver v0.3.0
-	github.com/crewjam/saml v0.4.1
+	github.com/crewjam/saml v0.4.3
 	github.com/dave/jennifer v1.4.1 // indirect
 	github.com/davecgh/go-spew v1.1.1
 	github.com/daviddengcn/go-colortext v1.0.0
@@ -90,7 +90,6 @@ require (
 	github.com/jmespath/go-jmespath v0.3.0 // indirect
 	github.com/jmoiron/sqlx v1.2.1-0.20190826204134-d7d95172beb5
 	github.com/joho/godotenv v1.3.0
-	github.com/jonboulle/clockwork v0.2.1 // indirect
 	github.com/jordan-wright/email v4.0.1-0.20200824153738-3f5bafa1cd84+incompatible
 	github.com/jpillora/backoff v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.10
@@ -134,7 +133,7 @@ require (
 	github.com/prometheus/procfs v0.1.3 // indirect
 	github.com/rainycape/unidecode v0.0.0-20150907023854-cb7f23ec59be
 	github.com/russellhaering/gosaml2 v0.4.0
-	github.com/russellhaering/goxmldsig v0.0.0-20200902171629-2e1fbc2c5593
+	github.com/russellhaering/goxmldsig v1.1.0
 	github.com/russross/blackfriday v2.0.0+incompatible // indirect
 	github.com/schollz/progressbar/v3 v3.5.0
 	github.com/segmentio/fasthash v1.0.3
